@@ -13,5 +13,6 @@ Steg
 ## Bild:
 | Bild                   | Beskrivning
 |------------------------| ----------------------------|
-|![me](https://github.com/PORTFOLIO-MarieJonsson/selfie_github.png)           | Personbild
+|![me](selfie_github.png)           | Personbild
 | 
+# https://github.com/PORTFOLIO-MarieJonsson/
