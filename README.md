@@ -12,5 +12,5 @@ Steg
 ## Bild:
 | Bild                   | Beskrivning
 |------------------------| ----------------------------|
-|![alt text for screen readers](selfie_github.png)           | Personbild
+|![me](selfie_github.png)           | Personbild
 | 
