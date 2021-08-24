@@ -11,8 +11,6 @@ Steg
  Jag studerar igen för att lära mig Python progammering, maskininlärning och AI. 
 
 ## Bild:
-| Bild                   | Beskrivning
-|------------------------| ----------------------------|
-|#![me](selfie_github.png)           | Personbild
+| Hej på er!              
+|------------------------|
 | <img src="selfie_github.png" width=200 >
-# https://github.com/PORTFOLIO-MarieJonsson/
