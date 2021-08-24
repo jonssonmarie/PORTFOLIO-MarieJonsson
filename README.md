@@ -12,5 +12,5 @@ Steg
 ## Bild:
 | Bild                   | Beskrivning
 |------------------------| ----------------------------|
-|[bild på mig](C:\\Users\\trull\\Dokument\\selfie_github.jpg)           | Personbild
+|![image info](./Dokument/selfie_github.png)           | Personbild
 | 
