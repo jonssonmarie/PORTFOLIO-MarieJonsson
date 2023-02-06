@@ -1,15 +1,12 @@
 # PORTFOLIO-MarieJonsson
-
- # Marie Jönsson
- Jag är snart klar som Pythonutvecklare inom Maskininlärning och AI efter att ha jobbat 22 år som ingenjör inom Automotive. 
  
-## Hej!              
-| <img src="selfie_github.jpg" width=200 >
+# Hej!              
+ <img src="selfie_github_2.png" width=200 >
+ 
+## Marie Jönsson
+ Jag är snart utbildad Pythonutvecklare inom Maskininlärning och AI efter att ha jobbat 22 år som ingenjör inom Automotive. 
 
-
-# Utvecklare inom Maskininlärning och AI
-
-Under utbildningen har jag lärt mig
+## Under utbildningen har jag lärt mig
 - Programmering i Python: *fundamentals*, *OOP*
 - Databehandling: *datakombinering och -aggregering, hantera saknad data, dimensionsreducering och data cleaning*, *pandas*, *numpy*, *anonymisering av data (GDPR)*
 - Linjär algebra 
