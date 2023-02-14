@@ -34,7 +34,7 @@
 
 - Deep learning: 
 
-  *Multilayer Perceptron MPL - image recognition, regression, classification*, *Convolutional Neural Networks (CNN)*, *Data Augument*, 
+  *Multilayer Perceptron MLP - image recognition, regression, classification*, *Convolutional Neural Networks (CNN)*, *Data Augument*, 
   *Transfer learning*, *Text preprocessing*
   
 - Databaser: 
