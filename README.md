@@ -7,46 +7,88 @@
  Jag är snart utbildad Pythonutvecklare inom Maskininlärning och AI efter att ha jobbat 22 år som ingenjör inom Automotive. 
 
 ## Under utbildningen har jag lärt mig
-- Programmering i Python: 
+### Programming
+- Python Fundamentals, OOP 
 
-  *installation of IDE*, *git*, *vscode*, *variables*, *I/O*, *if*, *while*, *for*, *lists*, *random*, *matplotlib*, *pipenv*
-  *strings*, *functions*, *exception handling*, *file handling*, *dictionary*
+### Python Libraries
+- Pandas
+- Numpy
+- Tensorflow
+- Keras
+- Scikit-learn 
+- etc.
 
-  *OOP: class, object, attributes, properties, docstring, polymorphism*
+### Data processing
+- Data combination and aggregation 
+- Missing data
+- Dimension reduction
+- Data cleaning
+- Anonymization of data
 
-  *OOP: inheritance, unit testing, modules*
+### Statistical methods
+- Common distributions
+- correlation
+- covariance
+- expected value
+- estimation
+- hypothesis testing
+- regression analysis with Numpy, Pandas, Seaborn, Scipy and statsmodels
 
-- Databehandling: 
+### Machine learning
+- Linear and logistic regression
+- K Nearest Neighbours (KNN)
+- Support Vector Machine (SVM)
+- Classification and regression trees 
+- Random Forest Classifier
+- Naive Bayes
+- Principal Component Analysis (PCA) 
+- NLP-intro
 
-  *datakombinering och -aggregering, hantera saknad data, dimensionsreducering och data cleaning*, *pandas*, *numpy*, *anonymisering av data (GDPR)*
+### Deep learning
+- Multilayer Perceptron MLP -image recognition 
+- Regression
+- Classification
+- Convolutional Neural Networks (CNN)
+- Data Augment
+- Transfer learning
+- Text preprocessing
 
-- Linjär algebra 
+### Data base
+- Fundamentals and syntax of TS SQL
+- basic security for databases
+- information structuring
+- MS SQL
+- dBeaver
 
-- Statistiska metoder: 
+### Data engineering in Azure
+- subscription
+- resource group
+- create resources
+- data factory
+- container
+- stream analytics
+- data storage
+- databricks
+- linked service
+- event hubs
+- data processing
+- synapse analytics
+- deploy ML/AI model  
+- both UI and remote with IDE and Python code
 
-  *Vanliga fördelningar, korrelation, kovarians, väntevärde, estimering och skattning, hypotestestning och regressionsanalys 
-  med Numpy, SciPy och Statsmodels*
+### Visualisation tools
+- Seaborn
+- Plotly
+- Matplotlib
+- Plotly express
 
-- Maskininlärning: 
-
-  *Linear- and logistic regression* , *K Nearest Neighbours (KNN)*, *Support Vecor Machine (SVM)*, *Classification and regression trees*, 
-  *Random Forest Classifier*, *NaiveBayes*, *Principal Component Analysis (PCA)*, *NLP-intro*
-
-- Deep learning: 
-
-  *Multilayer Perceptron MLP - image recognition, regression, classification*, *Convolutional Neural Networks (CNN)*, *Data Augument*, 
-  *Transfer learning*, *Text preprocessing*
-  
-- Databaser: 
-
-  *MS SQL*
-
-- Data engineering och Agila metoder: 
-
-  *Data engineeringkoncept som data pipelines, data processing i Azure*
-
-- Visualiseringsverktyg: 
-
-  *Seaborn*, *Plotly*, *Matplotlib* , *mfl*
-  
-- Git/GitHub, pip / pipenv, Markdown. 	
+### Misc
+- VsCode 
+- PyCharm
+- Git/GitHub
+- pip / pipenv
+- Markdown
+- terminal
+- Docker
+- Artifactory
+- Linux
